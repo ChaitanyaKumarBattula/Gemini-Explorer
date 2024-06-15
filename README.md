@@ -9,7 +9,7 @@ Develop a chat interface using Streamlit that connects to Google's cutting-edge 
 - Streamlit
 - Google Cloud account
 - Vertex AI
-- 
+  
 ## Workflow
 ### Step 1: Enable Google Cloud
 - Visit the Google Cloud Platform and start with the free tier.
